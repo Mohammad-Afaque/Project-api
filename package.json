@@ -1,0 +1,23 @@
+{
+  "name": "Project-api",
+  "version": "1.0.0",
+  "description": "My Portfolio projects api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-Afaque/Project-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammad-Afaque/Project-api/issues"
+  },
+  "homepage": "https://github.com/Mohammad-Afaque/Project-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
