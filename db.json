@@ -5,24 +5,176 @@
       "name": "wordpress",
       "image": "https://imgur.com/IrzaCvd.jpg",
       "live": "https://hamararishta.pk/",
-      "github": "https://hamararishta.pk/",
+      "github": "",
       "description": "WordPress website made for Matrimonial Service."
     },
     {
       "id": 1,
       "name": "wordpress",
-      "image": "https://imgur.com/IrzaCvd.jpg",
-      "live": "https://hamararishta.pk/",
-      "github": "https://hamararishta.pk/",
-      "description": "WordPress website made for Matrimonial Service."
+      "image": "https://imgur.com/rk80zOj.jpg",
+      "live": "https://lhdcarshowroom.co.uk/",
+      "github": "",
+      "description": "WordPress website made for Auto Image a car selling company in UK."
     },
     {
       "id": 2,
       "name": "wordpress",
-      "image": "https://imgur.com/IrzaCvd.jpg",
-      "live": "https://hamararishta.pk/",
-      "github": "https://hamararishta.pk/",
-      "description": "WordPress website made for Matrimonial Service."
+      "image": "https://imgur.com/J7GKO4A.jpg",
+      "live": "http://akautocenter.ae/",
+      "github": "",
+      "description": "WordPress website made for Auto Garage in Dubai."
+    },
+    {
+      "id": 3,
+      "name": "wordpress",
+      "image": "https://imgur.com/aybcHZQ.jpg",
+      "live": "http://buneyad.com/",
+      "github": "",
+      "description": "WordPress website made for Real Estate Management Consultant."
+    },
+    {
+      "id": 4,
+      "name": "wordpress",
+      "image": "https://imgur.com/eXWOEvc.jpg",
+      "live": "http://tabsenergysolutions.co.uk/",
+      "github": "",
+      "description": "WordPress website made for Energy Broker in UK."
+    },
+    {
+      "id": 5,
+      "name": "wordpress",
+      "image": "https://imgur.com/Aveixd2.jpg",
+      "live": "http://jaliligroupco.com/demo/",
+      "github": "",
+      "description": "WordPress website made for Jalili Group in Afghanistan. "
+    },
+    {
+      "id": 6,
+      "name": "wordpress",
+      "image": "https://imgur.com/2s9BZGc.jpg",
+      "live": "https://smartgccorp.com/",
+      "github": "",
+      "description": "WordPress website made for Construction company in UK."
+    },
+    {
+      "id": 7,
+      "name": "wordpress",
+      "image": "https://imgur.com/lLDMNpW.jpg",
+      "live": "https://inteximenterprises.com/",
+      "github": "",
+      "description": "WordPress website made for Medical Equipment provider."
+    },
+    {
+      "id": 8,
+      "name": "wordpress",
+      "image": "https://imgur.com/yDjbCe3.jpg",
+      "live": "https://a-team.estate/",
+      "github": "",
+      "description": "WordPress website made for Partner of Al-Jalil Developers"
+    },
+    {
+      "id": 9,
+      "name": "wordpress",
+      "image": "https://imgur.com/wQYoNvP.jpg",
+      "live": "https://demo.fijaz.digital/",
+      "github": "",
+      "description": "WordPress website made for ERC International in Dubai."
+    },
+    {
+      "id": 10,
+      "name": "wordpress",
+      "image": "https://imgur.com/8ZscucA.jpg",
+      "live": "http://www.shamsaali.com/",
+      "github": "",
+      "description": "Portfolio WordPress website made for MPA Shamsa Ali."
+    },
+    {
+      "id": 11,
+      "name": "github",
+      "image": "https://imgur.com/JwqPnlw.jpg",
+      "live": "https://safe-retreat-41439.herokuapp.com/",
+      "github": "https://github.com/Mohammad-Afaque/realtime-chat-",
+      "description": "It is an application made using nodejs in which user in same room can chat with each other."
+    },
+    {
+      "id": 12,
+      "name": "github",
+      "image": "https://imgur.com/yVACe2F.jpg",
+      "live": "https://weather009.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/PWA-Weather-App",
+      "description": "Progressive Web app made with ReactJS and Open Weather Map's Api "
+    },
+    {
+      "id": 13,
+      "name": "github",
+      "image": "https://imgur.com/Eab9ZNp.jpg",
+      "live": "https://elastic-archimedes-52257f.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/Github-Jobs-using-axios-react-hooks",
+      "description": "Made Github job page using react hooks and axios."
+    },
+    {
+      "id": 14,
+      "name": "github",
+      "image": "https://imgur.com/PgWvlY7.jpg",
+      "live": "https://gifted-booth-5202c7.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/Movie-App-made-with-api.themoviedb.org",
+      "description": "Movie app made using ReactJS and images and text being fetched from api."
+    },
+    {
+      "id": 15,
+      "name": "github",
+      "image": "https://imgur.com/vhhOeZH.jpg",
+      "live": "https://zen-lovelace-d51660.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/gif-app",
+      "description": "Random GIF generator made with ReactJS and api using axios."
+    },
+    {
+      "id": 16,
+      "name": "github",
+      "image": "https://imgur.com/8EGWjSk.jpg",
+      "live": "https://elegant-wright-e8ffbb.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/FiraGram",
+      "description": "Image Uploader made with reactJS where Firebase being used as host for images."
+    },
+    {
+      "id": 17,
+      "name": "github",
+      "image": "https://imgur.com/eTBoty0.jpg",
+      "live": "https://cranky-shockley-78d677.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/Drum-Kit",
+      "description": "Drum Kit with keybindings(when pressed cause action.) written in javascript."
+    },
+    {
+      "id": 18,
+      "name": "github",
+      "image": "https://imgur.com/W6TXRwm.jpg",
+      "live": "https://trusting-joliot-27aa51.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/css-variable",
+      "description": "Using HTML5's new features and CSS variable."
+    },
+    {
+      "id": 19,
+      "name": "github",
+      "image": "https://imgur.com/JbVEs7p.jpg",
+      "live": "https://flamboyant-einstein-bc09e8.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/css-js-clock",
+      "description": "JS clock (css variable changing using js)"
+    },
+    {
+      "id": 20,
+      "name": "github",
+      "image": "https://imgur.com/QmzzCHm.jpg",
+      "live": "https://wizardly-goodall-370f9d.netlify.app/",
+      "github": "https://github.com/Mohammad-Afaque/Bubble-Animation-Webpage",
+      "description": "Landing page  with image animation with css."
+    },
+    {
+      "id": 21,
+      "name": "github",
+      "image": "https://imgur.com/ft6yejC.jpg",
+      "live": "https://mohammad-afaque.github.io/Tailwind-project/public/",
+      "github": "https://github.com/Mohammad-Afaque/Tailwind-project",
+      "description": "It is webpage made with Tailwind CSS."
     }
   ]
 }
