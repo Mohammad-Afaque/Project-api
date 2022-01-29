@@ -175,6 +175,14 @@
       "live": "https://mohammad-afaque.github.io/Tailwind-project/public/",
       "github": "https://github.com/Mohammad-Afaque/Tailwind-project",
       "description": "It is webpage made with Tailwind CSS."
-    }
+    },
+    {
+    "id": 22,
+    "name": "github",
+    "image": "https://i.imgur.com/4iS3qL5.png",
+    "live": "https://afaque-project-api.herokuapp.com/",
+    "github": "https://github.com/Mohammad-Afaque/Project-api",
+    "description": "An JSON server deployed on heroku to serve an RESTFUL api of may projects."
+  },
   ]
 }
