@@ -125,8 +125,8 @@
       "name": "github",
       "image": "https://imgur.com/vhhOeZH.jpg",
       "live": "https://zen-lovelace-d51660.netlify.app/",
-      "github": "https://github.com/Mohammad-Afaque/gif-app",
-      "description": "Random GIF generator made with ReactJS and api using axios."
+      "github": "https://github.com/Mohammad-Afaque/search-engine-purely-for-cat-GIFs",
+      "description": "Developed a search engine for GIFs  with ReactJS."
     },
     {
       "id": 16,
@@ -134,7 +134,7 @@
       "image": "https://imgur.com/8EGWjSk.jpg",
       "live": "https://elegant-wright-e8ffbb.netlify.app/",
       "github": "https://github.com/Mohammad-Afaque/FiraGram",
-      "description": "Image Uploader made with reactJS where Firebase being used as host for images."
+      "description": "InstagramClone made with reactJS where Firebase being used as host for images."
     },
     {
       "id": 17,
